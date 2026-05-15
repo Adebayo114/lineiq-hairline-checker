@@ -1,0 +1,5 @@
+IDEAS:
+- wearable version later
+- mobile app control
+- laser guide for barbers
+- save client hairline profile
